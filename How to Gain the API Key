@@ -1,0 +1,17 @@
+1. Go to the Census API key registration page
+
+Open: https://api.census.gov/data/key_signup.html
+
+2. Fill out the registration form
+
+Name: Your full name
+
+Email: Your email (you’ll receive the key here)
+
+Affiliation: Optional (like “Independent Researcher” or your company/university)
+
+Reason for use: Short description, e.g., “Data analysis for research and visualization”
+
+3. Submit the form
+
+You’ll receive an API key via email almost instantly.
